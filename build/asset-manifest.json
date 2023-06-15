@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/devvatsal.github.io/static/css/main.cfe91f11.css",
+    "main.js": "/devvatsal.github.io/static/js/main.54ea7016.js",
+    "static/js/415.4d6acbeb.chunk.js": "/devvatsal.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/devvatsal.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/devvatsal.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/devvatsal.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/devvatsal.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/devvatsal.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/devvatsal.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/devvatsal.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/devvatsal.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/devvatsal.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/devvatsal.github.io/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
+    "static/media/home-bg.jpg": "/devvatsal.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/devvatsal.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/devvatsal.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/devvatsal.github.io/index.html",
+    "main.cfe91f11.css.map": "/devvatsal.github.io/static/css/main.cfe91f11.css.map",
+    "main.54ea7016.js.map": "/devvatsal.github.io/static/js/main.54ea7016.js.map",
+    "415.4d6acbeb.chunk.js.map": "/devvatsal.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/devvatsal.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe91f11.css",
+    "static/js/main.54ea7016.js"
+  ]
+}
