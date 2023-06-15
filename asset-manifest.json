@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devvatsal.github.io/static/css/main.cfe91f11.css",
-    "main.js": "/devvatsal.github.io/static/js/main.533321f6.js",
+    "main.js": "/devvatsal.github.io/static/js/main.daf9c2ef.js",
     "static/js/415.4d6acbeb.chunk.js": "/devvatsal.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/devvatsal.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/devvatsal.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/devvatsal.github.io/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/devvatsal.github.io/index.html",
     "main.cfe91f11.css.map": "/devvatsal.github.io/static/css/main.cfe91f11.css.map",
-    "main.533321f6.js.map": "/devvatsal.github.io/static/js/main.533321f6.js.map",
+    "main.daf9c2ef.js.map": "/devvatsal.github.io/static/js/main.daf9c2ef.js.map",
     "415.4d6acbeb.chunk.js.map": "/devvatsal.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/devvatsal.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe91f11.css",
-    "static/js/main.533321f6.js"
+    "static/js/main.daf9c2ef.js"
   ]
 }
